@@ -140,7 +140,7 @@ input[type="text"]{
     font-weight: bold;
     padding: 5px;
     margin: 0 5px 5px 0;
-}
+
 
 @media(max-width: 800px){
     .meals{
